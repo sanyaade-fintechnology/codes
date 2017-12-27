@@ -1,0 +1,15 @@
+Code,Symbol,Message
+0,NOERROR,no error
+1,GENERIC,generic error
+2,NOTIMPL,not implemented error
+3,DEPRECATED,command will be removed in the future
+10,MSG,invalid message format
+11,ID,identity related error
+12,AUTH,authentication error
+13,CODEC,codec not supported
+20,DECODE,error decoding message
+21,ARGS,invalid arguments
+30,INVALMARKET,invalid market definition
+40,INVALORDER,invalid order definition
+41,RISK,risk parameters violated
+50,NODATA,no data available
