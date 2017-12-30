@@ -1,4 +1,4 @@
-Code,Symbol,Message
+Code,Name,Message
 0,NOERROR,no error
 1,GENERIC,generic error
 2,NOTIMPL,not implemented error
